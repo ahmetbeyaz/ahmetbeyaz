@@ -1,6 +1,6 @@
 # Hi There :raised_hand_with_fingers_splayed: :raised_hand_with_fingers_splayed: :raised_hand_with_fingers_splayed:
 
-## I am a  software engineering student from  in Turkey, I love Programming, Developing, and Problem Solving. I love adventures & taking risks so every second I search for a new thing to do which will help me open up for new opportunities as well as teach me new ideas about life. I am searching for an internship which will help me increase my technical knowledge as well as develop my soft skills. To help me become a high-quality graduate in the market, give me experience looking for jobs.
+## I am a Mechanical engineering student from Turkey, I love Programming, Development and Problem Solving. I love adventures and risk taking, so every second I am looking for something new to help me open up to new opportunities and teach me new ideas about life. I am looking for a company that will help me improve my social skills as well as increase my technical knowledge. I want to be a good high quality software developer in the market
 
 
 

@@ -12,4 +12,4 @@
 
   - 📫 How to reach me  
   -  linkedin.com/in/ahmetbeyaz1285/
- - https://medium.com/@ahmtbyz_
+ 

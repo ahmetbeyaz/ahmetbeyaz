@@ -11,4 +11,5 @@
 
 
   - 📫 How to reach me  
-  -  **linkedin.com/in/ahmetbeyaz1285/**
+  -  linkedin.com/in/ahmetbeyaz1285/
+ - https://medium.com/@ahmtbyz_

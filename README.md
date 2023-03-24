@@ -1,4 +1,4 @@
-# Hi There :raised_hand_with_fingers_splayed: :raised_hand_with_fingers_splayed: :raised_hand_with_fingers_splayed:
+# Hi There :raised_hand_with_fingers_splayed: 
 
 ## I am a Software Engineering  from Turkey, I love Programming, Development and Problem Solving. I love adventures and risk taking, so every second I am looking for something new to help me open up to new opportunities and teach me new ideas about life. I am looking for a company that will help me improve my social skills as well as increase my technical knowledge. I want to be a good high quality software developer in the market
 
@@ -11,5 +11,5 @@
 
 
   - 📫 How to reach me  
-  -  linkedin.com/in/ahmetbeyaz1285/
+  - 🔗 linkedin.com/in/ahmetbeyaz1285/
  
